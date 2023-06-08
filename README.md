@@ -1,1 +1,1 @@
-how to find current working directory
+shelll permissions
