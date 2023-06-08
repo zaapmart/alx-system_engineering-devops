@@ -1,1 +1,1 @@
-learning shell scripting
+how to find current working directory
